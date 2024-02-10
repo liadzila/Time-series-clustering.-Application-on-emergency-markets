@@ -1,4 +1,4 @@
-Coursework on topic "Time Series clustering. Application on emerging markets".
+#Coursework on topic "Time Series clustering. Application on emerging markets".
 
 This project includes:
 Coursework.ipynb - analytics on datasets,
