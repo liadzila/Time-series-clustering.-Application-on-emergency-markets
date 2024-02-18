@@ -1,6 +1,4 @@
-# Coursework on topic "Time Series clustering. Application on emerging markets".
+# Time Series clustering. Application on emerging markets.
 
-This project includes:
-Coursework.ipynb - analytics on datasets,
-data_.csv - data on all stocks traded on _ exchange,
-parser.py - parser for getting the data from Investing.com
+Development of a parser for historical data provided by Middle Eastern exchange markets. Clustering stocks using DBSAN and K-means algorithms.
+
